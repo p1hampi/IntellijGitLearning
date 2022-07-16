@@ -4,6 +4,8 @@ public class Devclass {
         System.out.println("Hello World!!!");
         System.out.println("I am planning to learn...");
         System.out.println("This is my 3rd commit");
+        System.out.println("I am from feature branch");
+
     }
 
 }
